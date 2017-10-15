@@ -6,4 +6,6 @@ So my question is :
 
 How to make a device cheap, reliable, easy to integrate, discret and with no monthly payment?
 
+The project is described here : https://hackaday.io/project/27017-emergency-button-reliable-inexpensive-design
+
 ![Cover](Photos/new_cover.png)
