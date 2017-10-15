@@ -6,4 +6,4 @@ So my question is :
 
 How to make a device cheap, reliable, easy to integrate, discret and with no monthly payment?
 
-![Cover](main.png)
+![Cover](Photos/new_cover.png)
