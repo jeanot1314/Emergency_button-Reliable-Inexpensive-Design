@@ -6,4 +6,4 @@ So my question is :
 
 How to make a device cheap, reliable, easy to integrate, discret and with no monthly payment?
 
-![Image of Pi](Pictures/Be_Your_Hero_Cover.jpg)
+![Image of project](Photos/Screen Shot 2017-09-07 at 13.03.56.png)
