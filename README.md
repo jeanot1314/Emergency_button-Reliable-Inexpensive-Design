@@ -5,3 +5,5 @@ One of the main problems for old age people is keeping their balance while walki
 So my question is :   
 
 How to make a device cheap, reliable, easy to integrate, discret and with no monthly payment?
+
+![Image of Pi](Pictures/Be_Your_Hero_Cover.jpg)
