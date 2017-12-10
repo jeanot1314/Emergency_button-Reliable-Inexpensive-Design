@@ -6,6 +6,8 @@ So my question is :
 
 How to make a device cheap, reliable, easy to integrate, discret and with no monthly payment?
 
-The project is described here : https://hackaday.io/project/27017-emergency-button-reliable-inexpensive-design
+The Wifi ESP8266 version of the project is described here : https://hackaday.io/project/27017-emergency-button-reliable-inexpensive-design
+
+The Z-Wave Z-Uno version of the project is described here : https://makershare.com/projects/emergency-button-z-wave-3g-gateway
 
 ![Cover](Photos/new_cover.png)
